@@ -7,6 +7,8 @@ Latest Version has been Unpacked and Source Code is available!
 
 ![image](https://github.com/LX1XSTARX/CraxsRAT-V7/assets/151642374/3ae1096c-344e-4688-836f-1e907dd1a8c3)
 
+![image](https://github.com/BricksonAVE/CraxsRAT-V7/assets/152992687/d538dc77-ae30-431a-a3c8-aea2afb67cea)
+
 
 
 ## 📣It has been completely manualy unpacked and all codes fixed and cleaned
